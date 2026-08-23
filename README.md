@@ -182,3 +182,6 @@ DELETE /jobs/{job_id}
 GET /applications/
 PATCH /applications/{application_id}/status
 ```
+
+<img width="960" height="510" alt="image" src="https://github.com/user-attachments/assets/cb072899-0bef-4ea2-a02b-535796f55bb3" />
+
