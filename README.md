@@ -4,8 +4,8 @@ A secure RESTful backend API for a Job Portal system built with **FastAPI**, **M
 
 The system supports two user roles:
 
-- **Candidate** — can browse jobs and apply for jobs.
-- **Employer** — can create, update, and delete their own jobs and manage applications.
+- **Candidate**: can browse jobs and apply for jobs.
+- **Employer**: can create, update, and delete their own jobs and manage applications.
 
 The project implements authentication, authorization, job management, job applications, and role-based access control.
 
